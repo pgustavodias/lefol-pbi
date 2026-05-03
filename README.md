@@ -103,13 +103,12 @@ Ao final do treinamento, espera-se que o aluno seja capaz de:
 # 📂 Estrutura do Repositório
 
 ```bash
-📁 datasets
 📁 apostila
-📁 exercicios
 📁 dashboards
-📁 exemplos
-📁 imagens
+📁 datasets
+📁 exercicios
 📁 materiais-complementares
+📁 slides
 📄 README.md
 📄 Tutorial Instalação.md
 ```
