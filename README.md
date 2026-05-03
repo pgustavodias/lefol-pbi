@@ -1,4 +1,3 @@
-````markdown
 # 📊 Power BI na Prática — Do Dado à Decisão
 
 <p align="center">
