@@ -25,11 +25,7 @@ Clique no link abaixo:
 
 ## Localize o botão de download
 
-Na página oficial, clique em:
-
-# **Baixar gratuitamente**
-
-Você será redirecionado para a Microsoft Store ou para a página de instalação direta.
+Na página oficial, clique na opção e, após extrair o arquivo, execute-o e siga o processo de instlação convencionarl para ambiente Windows.
 
 ---
 
@@ -106,62 +102,6 @@ Na tela principal você verá:
 
 ---
 
-# 🔑 5. Login (Opcional)
-
-O Power BI pode ser utilizado sem login para desenvolvimento local.
-
-Entretanto, para:
-
-- publicar dashboards;
-- compartilhar relatórios;
-- utilizar Power BI Service;
-
-é recomendado utilizar uma conta Microsoft.
-
----
-
-# 📂 6. Testando a Instalação
-
-Vamos validar rapidamente se tudo está funcionando.
-
-## Passo 1
-
-Clique em:
-
-# **Obter Dados**
-
----
-
-## Passo 2
-
-Escolha:
-
-# Excel
-
-ou
-
-# Texto/CSV
-
----
-
-## Passo 3
-
-Importe qualquer planilha simples.
-
----
-
-## Passo 4
-
-Crie um gráfico simples:
-
-- gráfico de barras;
-- cartão;
-- tabela.
-
-Se isso funcionar, o Power BI está instalado corretamente ✅
-
----
-
 # 🧠 Dicas Importantes
 
 ## Mantenha o Power BI atualizado
@@ -171,32 +111,6 @@ A Microsoft libera atualizações frequentes com:
 - novos recursos;
 - melhorias de desempenho;
 - correções de bugs.
-
----
-
-## Organize seus arquivos
-
-Crie uma estrutura como:
-
-```bash
-📁 PowerBI
- ├── datasets
- ├── projetos
- ├── dashboards
- ├── exports
-```
-
----
-
-## Utilize nomes profissionais
-
-Exemplo:
-
-✅ vendas_2026.pbix
-
-Evite:
-
-❌ teste_final_agora.pbix
 
 ---
 
@@ -213,11 +127,6 @@ Agora que o Power BI Desktop está instalado, você já pode começar a:
 ---
 
 # 📚 Links Oficiais
-
-## Download do Power BI Desktop
-🔗 https://powerbi.microsoft.com/pt-br/downloads/
-
----
 
 ## Documentação Microsoft Learn
 🔗 https://learn.microsoft.com/pt-br/power-bi/
