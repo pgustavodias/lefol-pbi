@@ -111,6 +111,7 @@ Ao final do treinamento, espera-se que o aluno seja capaz de:
 📁 imagens
 📁 materiais-complementares
 📄 README.md
+📄 Tutorial Instalação.md
 ```
 
 ---
