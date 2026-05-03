@@ -19,7 +19,7 @@ Neste tutorial, você aprenderá como:
 
 Clique no link abaixo:
 
-🔗 https://powerbi.microsoft.com/pt-br/downloads/
+🔗 https://www.microsoft.com/pt-br/download/details.aspx?id=58494
 
 ---
 
